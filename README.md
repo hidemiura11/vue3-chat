@@ -27,3 +27,12 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Package
+```
+npm create vue@latest
+npm install vuex@next --save
+```
+
+Ref
+https://github.com/vuejs/vuex/tree/main/examples/composition/shopping-cart
