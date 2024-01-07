@@ -35,4 +35,4 @@ npm install vuex@next --save
 ```
 
 Ref
-https://github.com/vuejs/vuex/tree/main/examples/composition/shopping-cart
+https://github.com/vuejs/vuex/tree/main/examples/composition/chat
