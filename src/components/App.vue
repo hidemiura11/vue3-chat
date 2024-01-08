@@ -1,12 +1,21 @@
+<style src="../css/chat.css"></style>
+
 <template>
-  <div>test</div>
+  <div class="chatapp">
+    <thread-section></thread-section>
+    <message-section></message-section>
+  </div>
 </template>
 
 <script>
-export default defineComponent({
-})
+import ThreadSection from './ThreadSection.vue'
+import MessageSection from './MessageSection.vue'
+
+export default {
+  name: 'App',
+  components: {
+    ThreadSection,
+    MessageSection
+  }
+}
 </script>
-
-
-<style scoped>
-</style>
