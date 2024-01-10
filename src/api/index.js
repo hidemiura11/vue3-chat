@@ -1,5 +1,4 @@
-// import data from './mock-data'
-// const data = require('./mock-data')
+import data from './mock-data'
 
 const LATENCY = 16
 

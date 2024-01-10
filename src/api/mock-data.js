@@ -1,5 +1,4 @@
 const data = [
-  // module.exports = [
   {
     id: 'm_1',
     threadID: 't_1',
