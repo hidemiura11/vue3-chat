@@ -42,7 +42,7 @@ const data = [
   {
     id: 'm_6',
     threadID: 't_3',
-    threadName: 'Functional Heads',
+    threadName: 'Bill and Brian',
     authorName: 'Bill',
     text: 'Hey Brian, are you going to be talking about functional stuff?',
     timestamp: Date.now() - 49999
@@ -53,6 +53,14 @@ const data = [
     threadName: 'Bill and Brian',
     authorName: 'Brian',
     text: 'At ForwardJS?  Yeah, of course.  See you there!',
+    timestamp: Date.now() - 39999
+  },
+  {
+    id: 'm_8',
+    threadID: 't_3',
+    threadName: 'Bill and Brian',
+    authorName: 'Toshita',
+    text: 'Goaaaaaaaaal!  See you there!',
     timestamp: Date.now() - 39999
   }
 ]
